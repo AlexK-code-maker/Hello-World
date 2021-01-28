@@ -1,4 +1,4 @@
 # Hello-World
-For learning purposes
+For educational purposes
 
 Just here doing experiments with the functions here.
